@@ -1,4 +1,4 @@
-module Group2_fn45509 where
+module solution where
     
 data Base = C | G | A | T
     deriving (Eq, Show)
